@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The table [dbo].[Courses] is being dropped, data loss could occur.
+       The table [dbo].[Departments] is being dropped, data loss could occur.
+       The table [dbo].[Students] is being dropped, data loss could occur.
+       The table [dbo].[StudentsCourses] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [dbo].[FK_StudentsCourses_CourseId] (Foreign Key)
+       [dbo].[FK_Courses_DepartmentId] (Foreign Key)
+       [dbo].[FK_StudentsCourses_StudentId] (Foreign Key)
+       [dbo].[Courses] (Table)
+       [dbo].[Departments] (Table)
+       [dbo].[Students] (Table)
+       [dbo].[StudentsCourses] (Table)
+     Create
+       [dbo].[Actor] (Table)
+       [dbo].[Movie] (Table)
+       [dbo].[MovieRole] (Table)
+       [dbo].[FK_MovieMovieRole] (Foreign Key)
+       [dbo].[FK_MovieRole_Actor] (Foreign Key)
+
+** Supporting actions
+
+The object [DBTest] exists in the target, but it will not be dropped even though you selected the 'Generate drop statements for objects that are in the target database but that are not in the source' check box.
+The object [DBTest_log] exists in the target, but it will not be dropped even though you selected the 'Generate drop statements for objects that are in the target database but that are not in the source' check box.
+The table [dbo].[Courses] is being dropped, data loss could occur.
+The table [dbo].[Departments] is being dropped, data loss could occur.
+The table [dbo].[Students] is being dropped, data loss could occur.
+The table [dbo].[StudentsCourses] is being dropped, data loss could occur.
+

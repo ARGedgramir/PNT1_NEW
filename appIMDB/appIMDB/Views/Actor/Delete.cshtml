@@ -1,0 +1,37 @@
+﻿@model appIMDB.Models.Actor
+
+<h3>¿Estás seguro que querés borrar este actor?</h3>
+<div>
+   <hr />
+   <dl class="dl-horizontal">
+
+       <dt>@Html.DisplayNameFor(model => model.Name)</dt>
+       <dd>@Html.DisplayFor(model => model.Name)</dd>
+
+       <dt>@Html.DisplayNameFor(model => model.Age)</dt>
+       <dd>@Html.DisplayFor(model => model.Age)</dd>
+
+       <dt>@Html.DisplayNameFor(model => model.BirthDate)</dt>
+       <dd>@Html.DisplayFor(model => model.BirthDate)</dd>
+
+       <dt>@Html.DisplayNameFor(model => model.Nationality)</dt>
+       <dd>@Html.DisplayFor(model => model.Nationality)</dd>
+
+       <dt>Roles</dt>
+       <dd>
+           @foreach (var role in Model.MovieRoles)
+           {
+               <div>@role.Title / <a href="@Url.Action("Details", "Movie", new { id = role.Movie.Id })">@role.Movie.Title</a></div>
+           }
+       </dd>
+   </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

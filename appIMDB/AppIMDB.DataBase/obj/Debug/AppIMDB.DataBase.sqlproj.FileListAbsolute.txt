@@ -1,0 +1,10 @@
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.dacpac
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.dll
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.pdb
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.sqlprojAssemblyReference.cache
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\Model.xml
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\refactor.xml
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\postdeploy.sql
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\predeploy.sql
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.dll
+E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb

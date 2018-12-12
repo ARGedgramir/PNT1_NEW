@@ -1,0 +1,364 @@
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\ApplicationInsights.config
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\csc.exe
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\vbc.exe
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll.config
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.pdb
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Owin.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\WebGrease.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.pdb
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csprojResolveAssemblyReference.cache
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.dll
+C:\Users\Jhassan\induccion-jhassan\Proyecto\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.pdb
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\ApplicationInsights.config
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\csc.exe
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\vbc.exe
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll.config
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.pdb
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Iesi.Collections.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.Support.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Owin.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\WebGrease.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.Support.pdb
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.pdb
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Iesi.Collections.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csprojAssemblyReference.cache
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CoreCompileInputs.cache
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CopyComplete
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.pdb
+E:\induccion-jhassan\appIMDB\appIMDB\bin\ApplicationInsights.config
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\csc.exe
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\vbc.exe
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
+E:\induccion-jhassan\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe.config
+E:\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll.config
+E:\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\appIMDB.pdb
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Iesi.Collections.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Agent.Intercept.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Web.Infrastructure.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.Support.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Owin.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\WebGrease.dll
+E:\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.Support.pdb
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Antlr3.Runtime.pdb
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Iesi.Collections.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.Web.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\NHibernate.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Helpers.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Mvc.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Optimization.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.Razor.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Newtonsoft.Json.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\EntityFramework.SqlServer.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.xml
+E:\induccion-jhassan\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csprojAssemblyReference.cache
+E:\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CoreCompileInputs.cache
+E:\induccion-jhassan\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CopyComplete
+E:\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.dll
+E:\induccion-jhassan\appIMDB\appIMDB\obj\Debug\appIMDB.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\ApplicationInsights.config
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\csc.exe
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\vbc.exe
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\appIMDB.dll.config
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\appIMDB.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Antlr3.Runtime.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\EntityFramework.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\EntityFramework.SqlServer.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Iesi.Collections.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.Web.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Newtonsoft.Json.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\NHibernate.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\NHibernate.Support.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Owin.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Remotion.Linq.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Helpers.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Mvc.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Optimization.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Razor.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\WebGrease.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\NHibernate.Support.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Antlr3.Runtime.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Iesi.Collections.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.DependencyCollector.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.Web.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AI.WindowsServer.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.ApplicationInsights.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\NHibernate.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Remotion.Linq.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Remotion.Linq.EagerFetching.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Helpers.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Mvc.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Optimization.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.Razor.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.Deployment.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\System.Web.WebPages.Razor.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Newtonsoft.Json.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\EntityFramework.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\EntityFramework.SqlServer.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\obj\Debug\AppIMDB.csprojAssemblyReference.cache
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CoreCompileInputs.cache
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CopyComplete
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\obj\Debug\appIMDB.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\obj\Debug\appIMDB.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\appIMDB\bin\appIMDB.pdb

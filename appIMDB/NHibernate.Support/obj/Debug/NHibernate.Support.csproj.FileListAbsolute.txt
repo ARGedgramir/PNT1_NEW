@@ -1,0 +1,51 @@
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.pdb
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csprojAssemblyReference.cache
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CoreCompileInputs.cache
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CopyComplete
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.dll
+C:\Users\Jhassan\Proyectos\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.pdb
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.pdb
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.xml
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.xml
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\NHibernate.xml
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.xml
+E:\induccion-jhassan\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csprojAssemblyReference.cache
+E:\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CoreCompileInputs.cache
+E:\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CopyComplete
+E:\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.dll
+E:\induccion-jhassan\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\NHibernate.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\NHibernate.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csprojAssemblyReference.cache
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CoreCompileInputs.cache
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CopyComplete
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.dll
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.pdb
+D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.pdb

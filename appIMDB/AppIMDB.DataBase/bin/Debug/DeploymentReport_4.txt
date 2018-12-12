@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[MovieRole]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[MovieRole] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_MovieMovieRole] (Foreign Key)
+       [dbo].[FK_MovieRole_Actor] (Foreign Key)
+     Create
+       [dbo].[FK_MovieMovieRole] (Foreign Key)
+       [dbo].[FK_MovieRole_Actor] (Foreign Key)
+
+The object [DBTest] exists in the target, but it will not be dropped even though you selected the 'Generate drop statements for objects that are in the target database but that are not in the source' check box.
+The object [DBTest_log] exists in the target, but it will not be dropped even though you selected the 'Generate drop statements for objects that are in the target database but that are not in the source' check box.
+

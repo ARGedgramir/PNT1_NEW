@@ -1,0 +1,38 @@
+﻿@model IEnumerable<appIMDB.Models.Actor>
+<header>
+    <h1 class="text-center"> Listado de actores </h1>
+</header>
+<p>
+    @Html.ActionLink("Crear nuevo actor", "Create")
+
+    @using (Html.BeginForm("Index", "Actor", FormMethod.Get))
+    {
+        @Html.TextBox("SearchString")<input type="submit" value="Buscar" />
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Name)</th>
+        <th>@Html.DisplayNameFor(model => model.Age)</th>
+        <th>@Html.DisplayNameFor(model => model.BirthDate)</th>
+        <th>@Html.DisplayNameFor(model => model.Nationality)</th>
+        <th>@Html.DisplayNameFor(model => model.MovieRoles)</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+        <td>@Html.DisplayFor(modelItem => item.Age)</td>
+        <td>@Html.DisplayFor(modelItem => item.BirthDate)</td>
+        <td>@Html.DisplayFor(modelItem => item.Nationality)</td>
+        <td>@item.MovieRoles.Count</td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

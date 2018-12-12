@@ -1,0 +1,29 @@
+﻿@model appIMDB.Models.Movie
+
+<div>
+    <h4>Película</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>@Html.DisplayNameFor(model => model.Title)</dt>
+        <dd>@Html.DisplayFor(model => model.Title)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.CountryOfOrigin)</dt>
+        <dd>@Html.DisplayFor(model => model.CountryOfOrigin)</dd>
+
+        <dt>@Html.DisplayNameFor(model => model.ReleaseDate)</dt>
+        <dd>@Html.DisplayFor(model => model.ReleaseDate)</dd>
+
+        <dt>Roles</dt>
+        <dd>
+            @foreach (var role in Model.MovieRoles)
+            {
+                <div>@role.Title / <a href="@Url.Action("Details", "Actor", new { id = role.Actor.Id })">@role.Actor.Name</a></div>
+            }
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
