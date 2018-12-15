@@ -21,12 +21,12 @@ namespace appIMDB.Models
 
         [Display(Name = "País de origen")]
         [Required(ErrorMessage = "La película debe tener un país de origen")]
-        [Range(typeof(DateTime), "1/1/1900", "1/1/2020")]
         public virtual string CountryOfOrigin { get; set; }
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         [Display(Name = "Fecha de estreno")]
+        [Required(ErrorMessage = "La película debe tener una fecha de estreno")]
         public virtual DateTime ReleaseDate { get; set; }
 
         [Display(Name = "Roles")]

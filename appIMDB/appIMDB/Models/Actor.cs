@@ -15,8 +15,8 @@ namespace appIMDB.Models
             get { return typeof(Actor); }
         }
         
-        [Display(Name = "Nombre y Actor del actor/actriz")]
-        [Required(ErrorMessage = "El actor/actriz debe tener un nombre")]
+        [Display(Name = "Nombre y Apellido del actor")]
+        [Required(ErrorMessage = "El actor debe tener un nombre y apellido")]
         public virtual string Name { get; set; }
     
         [Display(Name = "Edad")]
@@ -30,11 +30,11 @@ namespace appIMDB.Models
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         [Display(Name = "Fecha de Nacimiento")]
-        [Range(typeof(DateTime), "1/1/1900", "1/1/2010")]
+        [Required(ErrorMessage = "El actor debe tener una fecha de nacimiento")]
         public virtual DateTime BirthDate { get; set; }
 
         [Display(Name = "Nacionalidad")]
-        [Required(ErrorMessage = "El actor/actriz debe tener una nacionalidad")]
+        [Required(ErrorMessage = "El actor debe tener una nacionalidad")]
         public virtual string Nationality { get; set; }
 
         [Display(Name = "Roles")]

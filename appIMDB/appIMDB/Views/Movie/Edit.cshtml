@@ -112,7 +112,7 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Save" onclick="validarDatos()" class="btn btn-default" />
+                <input type="submit" value="Save" class="btn btn-default" />
             </div>
         </div>
     </div>
@@ -140,21 +140,6 @@
             var $roleContainer = $(button).closest("[data-movie-role-id]");
             $roleContainer.remove();
         }
-
-        function validarDatos() {
-
-            if ($("#Title").val().length < 2) {
-                alert("El campo Titulo debe tener más de 2 caracteres");
-                return false;
-            }
-
-            if ($("#CountryOfOrigin").val().length < 4) {
-                alert("El país debe tener más de 4 caracteres");
-                return false;
-            }
-
-            return false;
-        }
-
+        
     </script>
 }
