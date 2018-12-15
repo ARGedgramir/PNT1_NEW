@@ -48,3 +48,20 @@
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 }
+<script>
+function validarDatos() {
+
+    if ($("#Title").val().length < 2) {
+            alert("El campo Titulo debe tener más de 2 caracteres");
+            return false;
+        }
+
+    if ($("#CountryOfOrigin").val().length < 4 ) {
+            alert("El país debe tener más de 4 caracteres");
+            return false;
+        }
+
+        return false;
+    }
+
+</script>

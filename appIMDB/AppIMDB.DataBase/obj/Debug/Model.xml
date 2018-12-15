@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AppIMDB.DataBase.dll" />
-			<Metadata Name="FileName" Value="E:\INDUCCION-JHASSAN\APPIMDB\APPIMDB.DATABASE\OBJ\DEBUG\APPIMDB.DATABASE.DLL" />
+			<Metadata Name="FileName" Value="D:\FACULTAD\ORT\PNT1\TP FINAL\APPIMDB\APPIMDB.DATABASE\OBJ\DEBUG\APPIMDB.DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="AppIMDB.DataBase" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="E:\induccion-jhassan\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

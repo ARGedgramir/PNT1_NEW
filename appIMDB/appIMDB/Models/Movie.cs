@@ -15,14 +15,18 @@ namespace appIMDB.Models
             get { return typeof(Movie); }
         }
 
+        [Display(Name = "Título")]
+        [Required(ErrorMessage ="La película debe tener un título")]
         public virtual string Title { get; set; }
 
-        [Display(Name = "Country of Origin")]
+        [Display(Name = "País de origen")]
+        [Required(ErrorMessage = "La película debe tener un país de origen")]
+        [Range(typeof(DateTime), "1/1/1900", "1/1/2020")]
         public virtual string CountryOfOrigin { get; set; }
 
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
-        [Display(Name = "Release Date")]
+        [Display(Name = "Fecha de estreno")]
         public virtual DateTime ReleaseDate { get; set; }
 
         [Display(Name = "Roles")]

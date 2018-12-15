@@ -133,6 +133,7 @@ namespace appIMDB.Controllers
 
         // POST: Movie/Delete/5
         [HttpPost]
+        [ActionName("Delete")]
         public ActionResult DeletePost(int id)
         {
             Movie movie = this.session.Get<Movie>(id);

@@ -116,7 +116,7 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Save" class="btn btn-default" />
+                <input type="submit" value="Save" onclick="validarDatos()" class="btn btn-default" />
             </div>
         </div>
     </div>
@@ -129,20 +129,34 @@
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 
-    <script>
-        function addMovieRole() {
-            var $rolesContainer = jQuery(".movie-role-container");
-            var $roleContainer = $("[data-movie-role-id=0]:first-child").clone();
-            $roleContainer.show();
-            $rolesContainer.append($roleContainer);
-            $roleContainer.find("[disabled]").each(function () {
-                console.log(this);
-                $(this).prop("disabled", false).removeAttr("disabled");
-            });
-        }
-        function removeMovieRole(button) {
-            var $roleContainer = $(button).closest("[data-movie-role-id]");
-            $roleContainer.remove();
-        }
+<script>
+    function addMovieRole() {
+        var $rolesContainer = jQuery(".movie-role-container");
+        var $roleContainer = $("[data-movie-role-id=0]:first-child").clone();
+        $roleContainer.show();
+        $rolesContainer.append($roleContainer);
+        $roleContainer.find("[disabled]").each(function () {
+            console.log(this);
+            $(this).prop("disabled", false).removeAttr("disabled");
+        });
+    }
+    function removeMovieRole(button) {
+        var $roleContainer = $(button).closest("[data-movie-role-id]");
+        $roleContainer.remove();
+    }
+       function validarDatos() {
+
+    if ($("#Name").val().length < 5) {
+            alert("El campo nombre debe tener más de 5 caracteres");
+        return false;
+    }
+
+        if ($("#Nationality").val().length < 4) {
+            alert("El país debe tener más de 4 caracteres");
+        return false;
+    }
+
+    return false;
+}
     </script>
 }
