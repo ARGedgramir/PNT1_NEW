@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
@@ -11,7 +12,7 @@ namespace appIMDB.Models
         {
             get { return typeof(MovieRole); }
         }
-
+        
         public virtual string Title
         {
             get;

@@ -14,3 +14,13 @@ D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBas
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.dll
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.pdb
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.dacpac
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\bin\Debug\AppIMDB.DataBase.pdb
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.sqlprojAssemblyReference.cache
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\Model.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\refactor.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\postdeploy.sql
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\predeploy.sql
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb

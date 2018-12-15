@@ -204,7 +204,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActorStorage.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
@@ -228,7 +227,6 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\MovieRole.cs" />
-    <Compile Include="MovieStorage.cs" />
     <Compile Include="NHibernate\ActorMapping.cs" />
     <Compile Include="NHibernate\MovieMapping.cs" />
     <Compile Include="NHibernate\MovieRoleMapping.cs" />
