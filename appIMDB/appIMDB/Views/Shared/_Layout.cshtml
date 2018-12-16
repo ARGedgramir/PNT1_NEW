@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - IMDB²</title>
+    <title>@ViewBag.Title IMDB²</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 
@@ -21,8 +21,8 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Movie", "Index", "Movie")</li>
-                    <li>@Html.ActionLink("Actor", "Index", "Actor")</li>
+                    <li>@Html.ActionLink("Películas", "Index", "Movie")</li>
+                    <li>@Html.ActionLink("Actores", "Index", "Actor")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                 </ul>
             </div>
@@ -32,7 +32,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>&copy; @DateTime.Now.Year Poner algo en el footer</p>
         </footer>
     </div>
 

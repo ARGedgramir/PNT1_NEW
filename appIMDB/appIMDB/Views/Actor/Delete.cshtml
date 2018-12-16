@@ -1,6 +1,6 @@
 ﻿@model appIMDB.Models.Actor
 
-<h3>¿Estás seguro que querés borrar este actor?</h3>
+<h3>¿Estás seguro que querés eliminar este actor?</h3>
 <div>
    <hr />
    <dl class="dl-horizontal">
@@ -30,8 +30,8 @@
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-danger" /> |
-            @Html.ActionLink("Back to List", "Index")
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Volver a la lista", "Index")
         </div>
     }
 </div>
