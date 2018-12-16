@@ -9,7 +9,7 @@
     <DeployDatabaseInSingleUserMode>False</DeployDatabaseInSingleUserMode>
     <DeployScriptFileName>Debug.sql</DeployScriptFileName>
     <ProfileVersionNumber>1</ProfileVersionNumber>
-    <TargetConnectionString>Data Source=(local)\SQLSERVER;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True</TargetConnectionString>
+    <TargetConnectionString>Data Source=(local)\sqlexpress;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=120;Encrypt=False;TrustServerCertificate=True</TargetConnectionString>
     <TargetDatabaseName>AppIMDB.DataBase</TargetDatabaseName>
   </PropertyGroup>
 </Project>

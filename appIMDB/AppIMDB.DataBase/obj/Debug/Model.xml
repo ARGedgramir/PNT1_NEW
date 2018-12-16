@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <DataSchemaModel FileFormatVersion="1.2" SchemaVersion="2.9" DspName="Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider" CollationLcid="1033" CollationCaseSensitive="False" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+=======
+<DataSchemaModel FileFormatVersion="1.2" SchemaVersion="2.4" DspName="Microsoft.Data.Tools.Schema.Sql.Sql120DatabaseSchemaProvider" CollationLcid="1033" CollationCaseSensitive="False" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+>>>>>>> cefc7ca11829e7bb0000f409c67cb1563d416850
 	<Header>
 		<CustomData Category="AnsiNulls">
 			<Metadata Name="AnsiNulls" Value="True" />
@@ -8,11 +12,19 @@
 			<Metadata Name="QuotedIdentifier" Value="True" />
 		</CustomData>
 		<CustomData Category="CompatibilityMode">
+<<<<<<< HEAD
 			<Metadata Name="CompatibilityMode" Value="130" />
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AppIMDB.DataBase.dll" />
 			<Metadata Name="FileName" Value="C:\USERS\JEREMIAS\ORT\PLAN NUEVO\NUEVAS TECNOLOGÍAS\TP NUEVAS TECN\PNT1_NEW\APPIMDB\APPIMDB.DATABASE\OBJ\DEBUG\APPIMDB.DATABASE.DLL" />
+=======
+			<Metadata Name="CompatibilityMode" Value="120" />
+		</CustomData>
+		<CustomData Category="Reference" Type="Assembly">
+			<Metadata Name="LogicalName" Value="AppIMDB.DataBase.dll" />
+			<Metadata Name="FileName" Value="D:\FACULTAD\ORT\PNT1\TP FINAL\APPIMDB\APPIMDB.DATABASE\OBJ\DEBUG\APPIMDB.DATABASE.DLL" />
+>>>>>>> cefc7ca11829e7bb0000f409c67cb1563d416850
 			<Metadata Name="AssemblyName" Value="AppIMDB.DataBase" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +32,11 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
+<<<<<<< HEAD
 			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb" />
+=======
+			<Metadata Name="AssemblySymbolsName" Value="D:\Facultad\ort\PNT1\TP FINAL\appIMDB\AppIMDB.DataBase\obj\Debug\AppIMDB.DataBase.pdb" />
+>>>>>>> cefc7ca11829e7bb0000f409c67cb1563d416850
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -37,7 +53,10 @@
 			<Property Name="PageVerifyMode" Value="3" />
 			<Property Name="DefaultLanguage" Value="" />
 			<Property Name="DefaultFullTextLanguage" Value="" />
+<<<<<<< HEAD
 			<Property Name="QueryStoreStaleQueryThreshold" Value="367" />
+=======
+>>>>>>> cefc7ca11829e7bb0000f409c67cb1563d416850
 			<Relationship Name="DefaultFilegroup">
 				<Entry>
 					<References ExternalSource="BuiltIns" Name="[PRIMARY]" />
