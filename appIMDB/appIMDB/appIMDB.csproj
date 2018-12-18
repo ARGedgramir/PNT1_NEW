@@ -248,6 +248,11 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\Bohemian Rhapsody.jpg" />
+    <Content Include="Content\Images\Infinity War.jpg" />
+    <Content Include="Content\Images\It.jpg" />
+    <Content Include="Content\Images\Solo.jpg" />
+    <Content Include="Content\Images\Venom.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

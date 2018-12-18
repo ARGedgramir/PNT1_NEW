@@ -456,18 +456,18 @@ D:\Facultad\ort\PNT1\TP FINAL\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CoreCompi
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\appIMDB\obj\Debug\AppIMDB.csproj.CopyComplete
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\appIMDB\obj\Debug\appIMDB.dll
 D:\Facultad\ort\PNT1\TP FINAL\appIMDB\appIMDB\obj\Debug\appIMDB.pdb
-C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\ApplicationInsights.config
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\csc.exe
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.CSharp.Core.targets
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\vbc.exe
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\appIMDB.dll.config
 C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\appIMDB\bin\appIMDB.dll

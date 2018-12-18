@@ -49,3 +49,20 @@ D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Sup
 D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.dll
 D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.pdb
 D:\Facultad\ort\PNT1\Jere TP\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.pdb
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\NHibernate.Support.pdb
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\NHibernate.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Iesi.Collections.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\NHibernate.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csprojAssemblyReference.cache
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.csproj.CopyComplete
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.dll
+C:\Users\Jeremias\ORT\Plan nuevo\Nuevas Tecnologías\Tp nuevas tecn\PNT1_NEW\appIMDB\NHibernate.Support\obj\Debug\NHibernate.Support.pdb

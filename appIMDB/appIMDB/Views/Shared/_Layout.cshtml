@@ -23,16 +23,18 @@
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Películas", "Index", "Movie")</li>
                     <li>@Html.ActionLink("Actores", "Index", "Actor")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
                 </ul>
             </div>
         </div>
     </div>
+    
     <div class="container body-content">
+        
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year Poner algo en el footer</p>
+            <p>&copy; IMDB² @DateTime.Now.Year - Todos los derechos reservados</p>
         </footer>
     </div>
 
